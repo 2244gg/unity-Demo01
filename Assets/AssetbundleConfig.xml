@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ABList Path="Assets/GameData/Data/Binary/BuffData.bytes" Crc="697814829" ABName="bytes" AssetName="BuffData.bytes" />
+  <ABList Path="Assets/GameData/Data/Binary/MonsterData.bytes" Crc="1289056854" ABName="bytes" AssetName="MonsterData.bytes" />
+  <ABList Path="Assets/GameData/Prefabs/Login.prefab" Crc="463493875" ABName="login" AssetName="Login.prefab">
+    <ABDependce>ugui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/Lobby/Panel_Func.prefab" Crc="4227533259" ABName="panel_func" AssetName="Panel_Func.prefab">
+    <ABDependce>ugui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/Lobby/Panel_Lobby.prefab" Crc="1494017839" ABName="panel_lobby" AssetName="Panel_Lobby.prefab">
+    <ABDependce>ugui</ABDependce>
+    <ABDependce>panel_func</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/Lobby/Panel_ModeSelect.prefab" Crc="1754586803" ABName="panel_lobby" AssetName="Panel_ModeSelect.prefab">
+    <ABDependce>ugui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Prefabs/Lobby/Panel_Person.prefab" Crc="1582591191" ABName="panel_person" AssetName="Panel_Person.prefab">
+    <ABDependce>ugui</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/Shaders/benghuai.shader" Crc="2153760648" ABName="shader" AssetName="benghuai.shader" />
+  <ABList Path="Assets/GameData/Shaders/Skybox.shader" Crc="2040549738" ABName="shader" AssetName="Skybox.shader" />
+  <ABList Path="Assets/GameData/Shaders/Water.shader" Crc="3794094069" ABName="shader" AssetName="Water.shader" />
+  <ABList Path="Assets/GameData/Shaders/Xray.shader" Crc="2720758644" ABName="shader" AssetName="Xray.shader" />
+  <ABList Path="Assets/GameData/Sounds/menusound.mp3" Crc="1701716301" ABName="sound" AssetName="menusound.mp3" />
+  <ABList Path="Assets/GameData/Sounds/senlin.mp3" Crc="662225670" ABName="sound" AssetName="senlin.mp3" />
+  <ABList Path="Assets/GameData/UGUI/Common/arrow_right.png" Crc="43490255" ABName="ugui" AssetName="arrow_right.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/buttons/2.png" Crc="2274681865" ABName="ugui" AssetName="2.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/buttons/rec-green.png" Crc="3273802312" ABName="ugui" AssetName="rec-green.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/buttons/rec-grey.png" Crc="3558686659" ABName="ugui" AssetName="rec-grey.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/buttons/按钮橙色.png" Crc="3054776594" ABName="ugui" AssetName="按钮橙色.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/buttons/添加.png" Crc="1739585241" ABName="ugui" AssetName="添加.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/CLOSE.png" Crc="955798580" ABName="ugui" AssetName="CLOSE.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/plus1.png" Crc="3521082192" ABName="ugui" AssetName="plus1.png" />
+  <ABList Path="Assets/GameData/UGUI/Common/Stop.png" Crc="1855913692" ABName="ugui" AssetName="Stop.png" />
+  <ABList Path="Assets/GameData/UGUI/logo.png" Crc="356658870" ABName="ugui" AssetName="logo.png" />
+  <ABList Path="Assets/GameData/UGUI/Test1.png" Crc="3547477655" ABName="ugui" AssetName="Test1.png" />
+  <ABList Path="Assets/GameData/UGUI/test2.png" Crc="371445476" ABName="ugui" AssetName="test2.png" />
+  <ABList Path="Assets/GameData/UGUI/test3.png" Crc="725870420" ABName="ugui" AssetName="test3.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/bgImg2.jpg" Crc="3344259067" ABName="ugui" AssetName="bgImg2.jpg" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/bgImg3.jpg" Crc="4197809739" ABName="ugui" AssetName="bgImg3.jpg" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/key.png" Crc="3222106008" ABName="ugui" AssetName="key.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/关于.png" Crc="3548786452" ABName="ugui" AssetName="关于.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/商城2.png" Crc="1078095061" ABName="ugui" AssetName="商城2.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/画质设置图标  .png" Crc="2778955353" ABName="ugui" AssetName="画质设置图标  .png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/背包1.png" Crc="1327060643" ABName="ugui" AssetName="背包1.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/规则.png" Crc="947040869" ABName="ugui" AssetName="规则.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Button/音效.png" Crc="510743583" ABName="ugui" AssetName="音效.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/HeadImg/icon_headImg3.png" Crc="2494179559" ABName="ugui" AssetName="icon_headImg3.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/HeadImg/象棋头像2.jpg" Crc="2365869124" ABName="ugui" AssetName="象棋头像2.jpg" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Prop/元宝.png" Crc="4090597323" ABName="ugui" AssetName="元宝.png" />
+  <ABList Path="Assets/GameData/UGUI/UIHome/Prop/银币.png" Crc="2340786850" ABName="ugui" AssetName="银币.png" />
+</AssetBundleConfig>

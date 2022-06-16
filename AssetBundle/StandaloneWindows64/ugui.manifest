@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 654551070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85a60a478934d729dd412a46bc869743
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/GameData/UGUI/Common/buttons/\u6DFB\u52A0.png"
+- "Assets/GameData/UGUI/UIHome/Button/\u89C4\u5219.png"
+- Assets/GameData/UGUI/Common/CLOSE.png
+- Assets/GameData/UGUI/Common/plus1.png
+- "Assets/GameData/UGUI/Common/buttons/\u6309\u94AE\u6A59\u8272.png"
+- Assets/GameData/UGUI/test2.png
+- "Assets/GameData/UGUI/UIHome/Prop/\u5143\u5B9D.png"
+- Assets/GameData/UGUI/Common/arrow_right.png
+- Assets/GameData/UGUI/Common/buttons/rec-grey.png
+- Assets/GameData/UGUI/UIHome/bgImg3.jpg
+- Assets/GameData/UGUI/Common/buttons/2.png
+- Assets/GameData/UGUI/Test1.png
+- "Assets/GameData/UGUI/UIHome/Button/\u753B\u8D28\u8BBE\u7F6E\u56FE\u6807  .png"
+- Assets/GameData/UGUI/test3.png
+- Assets/GameData/UGUI/Common/Stop.png
+- Assets/GameData/UGUI/Common/buttons/rec-green.png
+- Assets/GameData/UGUI/UIHome/HeadImg/icon_headImg3.png
+- "Assets/GameData/UGUI/UIHome/HeadImg/\u8C61\u68CB\u5934\u50CF2.jpg"
+- Assets/GameData/UGUI/logo.png
+- "Assets/GameData/UGUI/UIHome/Button/\u80CC\u53051.png"
+- "Assets/GameData/UGUI/UIHome/Button/\u97F3\u6548.png"
+- "Assets/GameData/UGUI/UIHome/Prop/\u94F6\u5E01.png"
+- "Assets/GameData/UGUI/UIHome/Button/\u5173\u4E8E.png"
+- Assets/GameData/UGUI/UIHome/Button/key.png
+- Assets/GameData/UGUI/UIHome/bgImg2.jpg
+- "Assets/GameData/UGUI/UIHome/Button/\u5546\u57CE2.png"
+Dependencies: []
