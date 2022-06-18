@@ -327,11 +327,11 @@ namespace FrameworkDesign
         {
 
         }
-        public virtual void OnEnter()
+        public override void OnEnter()
         {
             base.OnEnter();
         }
-        public virtual void OnExit()
+        public override void OnExit()
         {
             base.OnExit();
             if (monoObjController != null)

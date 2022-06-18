@@ -52,6 +52,7 @@ public class ModuleState : SingletonTool<ModuleState>
     // 
     public void PushChildModule(EModuleState eModuleState)
     {
+        FreshState();
         // 退出上一个孩子模块
         EModuleState curChildState = GetCurChildState();
         if (curModuleState != EModuleState.None)
@@ -67,13 +68,13 @@ public class ModuleState : SingletonTool<ModuleState>
     }
     public void PushSystemModule(EModuleState eModuleState)
     {
+        FreshState();
         // 退出上一个系统模块
         EModuleState curSystemState = GetCurSystemState();
         if (curModuleState != EModuleState.None)
         {
             CurStateOnExit(curSystemState);
         }
-
         mModulePath.Add(eModuleState);
         mSystemModulePath.Add(eModuleState);
 
